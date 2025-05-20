@@ -1,3 +1,3 @@
 <?php
-echo 'ini gitur 1'
+echo 'ini fitur 1'
 ?>
